@@ -4,3 +4,4 @@
 1. pandas
 2. numpy
 3. KNN
+4. Multilple Regression
