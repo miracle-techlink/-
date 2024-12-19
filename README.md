@@ -10,3 +10,8 @@
 3. numpy
 4. KNN
 5. Multilple Regression
+6. Logisctic Regression
+7. SVM
+8. XGBoost
+9. PCA
+10.review
