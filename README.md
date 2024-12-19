@@ -14,4 +14,4 @@
 7. SVM
 8. XGBoost
 9. PCA
-10.review
+10. review
