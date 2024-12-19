@@ -1,0 +1,17 @@
+CustomerID,Age,Sex,Income,Bought
+1,28,Male,Middle,No
+2,35,Female,Middle,No
+3,33,Female,Middle,No
+4,38,Female,Low,No
+5,22,Male,High,No
+6,43,Female,Low,No
+7,23,Female,Low,No
+8,22,Female,High,Yes
+9,44,Male,Middle,Yes
+10,20,Male,High,No
+11,37,Female,Middle,No
+12,23,Male,Low,No
+13,45,Female,Middle,No
+14,43,Male,Low,Yes
+15,40,Male,Middle,Yes
+16,36,Female,Low,No
